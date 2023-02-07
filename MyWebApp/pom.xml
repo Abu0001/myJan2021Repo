@@ -18,7 +18,7 @@
   <build>
     <finalName>MyWebApp</finalName>
   </build>
-  settings>
+  <settings>
     <pluginGroups>
         <pluginGroup>org.sonarsource.scanner.maven</pluginGroup>
     </pluginGroups>
